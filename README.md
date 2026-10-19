@@ -51,6 +51,8 @@ A web browser and a text editor such as Visual Studio Code.
 
 ## Live Demo
 
+[View Amazon Clone](https://shivamgupta6375.github.io/Amazon-Clone/)
+
 
 ## Learning Objectives
 
